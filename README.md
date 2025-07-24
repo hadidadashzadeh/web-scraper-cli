@@ -35,11 +35,14 @@ web-scraper-cli/
 │
 ├── main.py              # Entry point for CLI
 ├── scraper.py           # Contains scraping logic
+│
 ├── output/              # Directory to store scraped results
 │   ├── jobs_python.json
 │   └── jobs_remote.csv
+│
 ├── requirements.txt     # Python dependencies
 ├── .gitignore           # Git ignored files config
+├── LICENSE              # Project license (MIT)
 └── README.md            # Project documentation (this file)
 
 ```
