@@ -89,4 +89,4 @@ This project is licensed under the MIT License. See [`LICENSE`](LICENSE) for mor
 ## 🧑‍💻 Author
 
 **Hadi Dadashzade**
-[GitHub](https://github.com/hadidadashzade) • [LinkedIn](https://linkedin.com/in/hadidadashzade)
+[GitHub](https://github.com/hadidadashzadeh) • [LinkedIn](https://linkedin.com/in/hadidadashzadeh)
